@@ -9,3 +9,6 @@ Getting into CyberSecurity<br>
 Hashcat<br>
 [Release the kracken](https://threat.tevora.com/release-the-kraken)
 
+Comptia<br>
+[renewing multiple certifications](https://www.comptia.org/continuing-education/learn/renewing-multiple-certifications)
+
