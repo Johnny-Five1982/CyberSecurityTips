@@ -12,3 +12,6 @@ Hashcat<br>
 Comptia<br>
 [renewing multiple certifications](https://www.comptia.org/continuing-education/learn/renewing-multiple-certifications)
 
+Password ReUse Vulnerability<br>
+[Password ReUse](https://web.archive.org/web/20210301075428/https://adminit.ucdavis.edu/tech-tips/what-password-reuse-and-why-it-security-problem)
+
